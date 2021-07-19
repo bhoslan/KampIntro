@@ -14,7 +14,7 @@ namespace Constructors
 
     class Customer
     {
-        public Customer() // parametresi olmayan constructor default constructor dır
+        public Customer() // parametresi olmayan constructor default constructor dır.
         {
 
         }
