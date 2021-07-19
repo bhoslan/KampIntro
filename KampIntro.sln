@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{4304D760-B9E9-4514-9473-71B222423E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AC172DF5-224F-462E-972D-B70128549750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{AC172DF5-224F-462E-972D-B70128549750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{AE09B09B-8385-48C9-8BC2-C3E77255D793}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{AE09B09B-8385-48C9-8BC2-C3E77255D793}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{286F95B0-D5E7-4AF1-9B2B-276B2989DF6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{AE09B09B-8385-48C9-8BC2-C3E77255D793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE09B09B-8385-48C9-8BC2-C3E77255D793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE09B09B-8385-48C9-8BC2-C3E77255D793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{286F95B0-D5E7-4AF1-9B2B-276B2989DF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{286F95B0-D5E7-4AF1-9B2B-276B2989DF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{286F95B0-D5E7-4AF1-9B2B-276B2989DF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{286F95B0-D5E7-4AF1-9B2B-276B2989DF6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
